@@ -1,60 +1,64 @@
 # Simple Todo
 
-`simple_todo` contains project files that now have a documented setup, structure, and maintenance workflow.
+## Project Tags
+
+- No requested category tag currently applies.
+
+## Overview
+
+Simple Todo is a lightweight todo application or starter project.
 
 ## Features
 
-- Project files are organized for future implementation and documentation.
+- Clear repository structure ready for implementation and future expansion
 
 ## Tech Stack
 
-- Project-specific stack not yet declared
+- Stack is not declared yet
 
 ## Project Structure
 
-- `.gitattributes` - project file
-- `README.md` - project documentation
+- `.gitattributes` - project file or directory
 
 ## Getting Started
 
 ### Prerequisites
 
 - Git
-- A local editor or IDE
 
-### Setup
+### Setup and Run
 
 ```bash
 git clone https://github.com/ENZOMOTIVE/simple_todo.git
 cd simple_todo
 ```
 
-Add the project source files, then document the exact setup and run commands here.
+Add implementation-specific install and run commands here as the project grows.
 
-## Available Commands
+## Commands
 
-- No package scripts were detected in the current repository contents.
+- No automated command set is declared yet; document commands here as tooling is added.
 
 ## Configuration
 
-- No required environment variables are documented yet. Add them here when the project needs configuration.
+- No required runtime configuration is documented yet. Add environment variables here when the project needs them.
 
 ## Testing and Quality
 
-- Automated tests are not documented yet. Add test commands here when test coverage is introduced.
+- No automated test workflow is declared yet; add tests and document the command here as the project matures.
 
-## Roadmap
+## Documentation Notes
 
-- Keep setup instructions aligned with the actual project workflow.
-- Add screenshots, architecture notes, or API examples as the implementation grows.
-- Document deployment steps once the hosting target is finalized.
+- Keep this README aligned with the actual source layout and commands.
+- Add screenshots, API examples, contract addresses, or deployment links when they become stable.
+- Update the project tags when the scope changes.
 
 ## Contributing
 
-1. Create a feature branch.
-2. Make focused changes and update documentation when behavior changes.
+1. Create a focused branch for the change.
+2. Update code and documentation together.
 3. Run the relevant checks before opening a pull request.
 
 ## License
 
-No license file is currently included. Add one before distributing or reusing this project publicly.
+No license file is currently committed. Add one before distributing this project publicly.
